@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 192 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Jersey Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M62.4221219,13.2310924 C66.031361,25.9427253 82.2789703,36.276542 95.4891304,36.276542 C109.071987,36.276542 126.768191,26.2652508 129.898574,13.2310924 L138.913043,13.2310924 C138.913043,13.9823465 138.923193,14.7312317 138.943362,15.4776186 C138.923206,16.5957346 138.913043,17.7188529 138.913043,18.8466387 C138.913043,66.0104744 156.687085,105.011367 179.782609,111.363421 L179.782609,241.936975 L12.2173913,241.936975 L12.2173913,112.64327 C35.808352,107.177033 54.1086957,67.724667 54.1086957,19.8676471 C54.1086957,17.6363273 54.0689132,15.4232782 53.9906669,13.2310924 L62.4221219,13.2310924 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="167.565217" height="228.705882" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M65.6048678,1.34197042e-13 C65.5757292,0.521224797 65.5609756,1.04605682 65.5609756,1.57414756 C65.5609756,17.7777876 89.3792237,27.9814958 96,27.9814958 C102.620776,27.9814958 127.609756,17.7777876 127.609756,1.57414756 C127.609756,1.04605682 127.595003,0.521224797 127.565864,4.32091337e-14 L145.176821,1.34197042e-13 C145.172765,0.339736055 145.170732,0.67993152 145.170732,1.02057613 C145.170732,1.83520756 145.182361,2.64727032 145.205472,3.45662404 C145.182377,4.66906673 145.170732,5.88693367 145.170732,7.10986185 C145.170732,58.2525397 165.536628,100.543631 192,107.431558 L192,248 L0,248 L0,108.819377 C27.0310541,102.891998 48,60.1113452 48,8.2170047 C48,5.45070535 47.9404153,2.71030317 47.8235038,0 L65.6048678,1.34197042e-13 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="192" height="248" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="6.13043478" y="0" width="55.173913" height="42.8823529" rx="10.1999998"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="55.173913" height="42.8823529" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="40.8403361" width="68.4565217" height="44.9243697" rx="10.1999998"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="68.4565217" height="44.9243697" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Jersey-Icon" stroke="#979797">
+            <use id="Combined-Shape" mask="url(#mask-2)" stroke-width="8.15999985" xlink:href="#path-1"></use>
+            <use id="outer-jersey" mask="url(#mask-4)" stroke-width="9.06604599" xlink:href="#path-3"></use>
+            <g id="number" transform="translate(62.282609, 97.974790)" stroke-width="14.2799997">
+                <use id="Rectangle" mask="url(#mask-6)" xlink:href="#path-5"></use>
+                <use id="Rectangle-2" mask="url(#mask-8)" xlink:href="#path-7"></use>
+            </g>
+        </g>
+    </g>
+</svg>
